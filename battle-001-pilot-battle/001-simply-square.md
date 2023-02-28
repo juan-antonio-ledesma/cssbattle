@@ -3,6 +3,22 @@
 ![#1 Simply Square](https://cssbattle.dev/targets/1.png)
 
 ```html
+<style>
+  body {
+    margin: 0;
+    background: #b5e0ba;
+    box-shadow: inset -200px -100px #5d3a3a;
+  }
+</style>
+```
+
+```html
+<style>body{margin:0;background:#b5e0ba;box-shadow:inset -200px -100px #5d3a3a
+```
+
+---
+
+```html
 <div></div>
 <style>
   body {
