@@ -2,6 +2,8 @@
 
 ![#1 Simply Square](https://cssbattle.dev/targets/1.png)
 
+### Standard solution
+
 ```html
 <div></div>
 <style>
@@ -16,6 +18,8 @@
   }
 </style>
 ```
+
+### ⛳ Codegolf solution
 
 ```html
 <p><style>body{background:#5d3a3a;margin:0}p{width:200;height:200;background:#b5e0ba
