@@ -1,10 +1,12 @@
-<h1>#1 Simply Square <sup><sup>Battle #1 - Pilot Battle</sup></sup></h1>
+# #1 Simply Square
 
 <sup>
   <a href="https://cssbattle.dev/play/1"><strong>GO TO PROBLEM</strong></a>
 </sup>
 
-![#1 Simply Square](https://cssbattle.dev/targets/1.png)
+<p align="center">
+  <img src="https://cssbattle.dev/targets/1.png" alt="#1 Simply Square" />
+</p>
 
 ## Solutions
 
