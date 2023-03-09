@@ -4,9 +4,9 @@
   <a href="https://cssbattle.dev/play/1"><strong>GO TO PROBLEM</strong></a>
 </sup>
 
-<p align="center">
-  <img src="https://cssbattle.dev/targets/1.png" alt="#1 Simply Square" />
-</p>
+<br />
+
+![#1 Simply Square](https://cssbattle.dev/targets/1.png)
 
 ## Solutions
 
