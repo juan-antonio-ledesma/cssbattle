@@ -1,4 +1,4 @@
-# #1 Simply Square
+<h1>#1 Simply Square <sup><sup>Battle #1 - Pilot Battle</sup></sup></h1>
 
 <sup>
   <a href="https://cssbattle.dev/play/1"><strong>GO TO PROBLEM</strong></a>
