@@ -1,10 +1,10 @@
 # #1 Simply Square
 
-<sup>
-  <a href="https://cssbattle.dev/play/1"><strong>GO TO PROBLEM</strong></a>
-</sup>
-
-<br /><br />
+<p>
+  <sup>
+    <a href="https://cssbattle.dev/play/1"><strong>GO TO PROBLEM</strong></a>
+  </sup>
+</p>
 
 ![#1 Simply Square](https://cssbattle.dev/targets/1.png)
 
