@@ -1,6 +1,14 @@
-# [#1 Simply Square](https://cssbattle.dev/play/1)
+# #1 Simply Square
+
+```html
+<sup>
+  <a href="https://cssbattle.dev/play/1"><strong> GO TO PROBLEM </strong></a>
+</sup>
+```
 
 ![#1 Simply Square](https://cssbattle.dev/targets/1.png)
+
+## Solutions
 
 ```html
 <style>
