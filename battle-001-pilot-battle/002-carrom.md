@@ -2,7 +2,7 @@
 
 <p>
   <sup>
-    <a href="https://cssbattle.dev/play/2"><strong>GO TO PROBLEM</strong></a>
+    <a href="https://cssbattle.dev/play/2"><strong>GO TO THE PROBLEM</strong></a>
   </sup>
 </p>
 
