@@ -4,7 +4,7 @@
   <a href="https://cssbattle.dev/play/1"><strong>GO TO PROBLEM</strong></a>
 </sup>
 
-<br />
+<br /><br />
 
 ![#1 Simply Square](https://cssbattle.dev/targets/1.png)
 
