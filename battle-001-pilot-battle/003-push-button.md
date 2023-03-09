@@ -1,6 +1,14 @@
-# [#3 Push Button](https://cssbattle.dev/play/3)
+# #3 Push Button
+
+<p>
+  <sup>
+    <a href="https://cssbattle.dev/play/3"><strong>GO TO PROBLEM</strong></a>
+  </sup>
+</p>
 
 ![#3 Push Button](https://cssbattle.dev/targets/3.png)
+
+## Solutions
 
 ```html
 <div a></div>

@@ -1,6 +1,14 @@
-# [#2 Carrom](https://cssbattle.dev/play/2)
+# #2 Carrom
+
+<p>
+  <sup>
+    <a href="https://cssbattle.dev/play/2"><strong>GO TO PROBLEM</strong></a>
+  </sup>
+</p>
 
 ![#2 Carrom](https://cssbattle.dev/targets/2.png)
+
+## Solutions
 
 ```html
 <style>
