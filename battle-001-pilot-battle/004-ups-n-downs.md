@@ -6,7 +6,7 @@
   </sup>
 </p>
 
-![#3 Push Button](https://cssbattle.dev/targets/4.png)
+![#4 Push Button](https://cssbattle.dev/targets/4.png)
 
 ## Solutions
 
