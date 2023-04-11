@@ -11,3 +11,4 @@ CSSBattle is an online game where players compete with each other to create the 
 - **[#5 Acid Rain](./battle-001-pilot-battle/005-acid-rain.md)**
 - **[#6 Missing Slice](./battle-001-pilot-battle/006-missing-slice.md)**
 - **[#7 Leafy Trail](./battle-001-pilot-battle/007-leafy-trail.md)**
+- **[#8 Leafy Trail](./battle-001-pilot-battle/008-forking-crazy.md)**
