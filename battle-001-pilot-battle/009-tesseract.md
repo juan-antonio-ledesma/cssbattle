@@ -11,6 +11,44 @@
 ## Solutions
 
 ```html
+<div></div>
+<style>
+  body {
+    background: linear-gradient(
+      #222730 25%,
+      #4caab3 25%,
+      #4caab3 75%,
+      #222730 75%
+    );
+    display: grid;
+    place-items: center;
+  }
+  div {
+    width: 150px;
+    height: 150px;
+    background: #4caab3;
+    box-shadow: 0 0 0 50px #222730;
+    transform: rotate(45deg);
+    display: grid;
+    place-items: center;
+  }
+  div::before {
+    content: '';
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: #393e46;
+  }
+</style>
+```
+
+```html
+<p><style>body{background:linear-gradient(#222730 25%,#4caab3 25%,#4caab3 75%,#222730 75%);display:grid;place-items:center}p{width:150;height:150;background:#4caab3;box-shadow:0 0 0 50px#222730;transform:rotate(45deg);display:grid;place-items:center}p:before{content:'';width:50;height:50;border-radius:50%;background:#393e46
+```
+
+---
+
+```html
 <div a></div>
 <div b></div>
 <div c></div>
