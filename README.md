@@ -13,3 +13,4 @@ CSSBattle is an online game where players compete with each other to create the 
 - **[#7 Leafy Trail](./battle-001-pilot-battle/007-leafy-trail.md)**
 - **[#8 Forking Crazy](./battle-001-pilot-battle/008-forking-crazy.md)**
 - **[#9 Tesseract](./battle-001-pilot-battle/009-tesseract.md)**
+- **[#10 Tesseract](./battle-001-pilot-battle/010-cloaked-spirits.md)**
