@@ -74,17 +74,15 @@
     height: 50px;
     background: linear-gradient(
       to right,
-      #fdc57b,
       #fdc57b 16.5%,
       #62374e 16.5%,
       #62374e 83.5%,
-      #fdc57b 83.5%,
-      #fdc57b 100%
+      #fdc57b 83.5%
     );
   }
 </style>
 ```
 
 ```html
-<p><p><style>*{background:#62374e}p{margin:50 auto 100;width:78%;height:50;background:linear-gradient(to right,#fdc57b,#fdc57b 16.5%,#62374e 16.5%,#62374e 83.5%,#fdc57b 83.5%,#fdc57b 100%)
+<p><p><style>*{background:#62374e}p{margin:50 auto 100;width:78%;height:50;background:linear-gradient(to right,#fdc57b 16.5%,#62374e 16.5%,#62374e 83.5%,#fdc57b 83.5%)
 ```
