@@ -16,3 +16,7 @@ CSSBattle is an online game where players compete with each other to create the 
 - **[#10 Tesseract](./battle-001-pilot-battle/010-cloaked-spirits.md)**
 - **[#11 Eye of Sauron](./battle-001-pilot-battle/011-eye-of-sauron.md)**
 - **[#12 Wiggly Moustache](./battle-001-pilot-battle/012-wiggly-moustache.md)**
+
+## Battle #2 - Visibility
+
+- **[#13 Totally Triangle](./battle-002-visibility/013-totally-triangle.md)**
