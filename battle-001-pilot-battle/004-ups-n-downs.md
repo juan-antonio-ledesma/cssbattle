@@ -39,5 +39,5 @@
 ```
 
 ```html
-<a a><a b><a c><style>*{background:#62306d}a{width:100;height:100;position:fixed;background:#f7ec7d;border-radius:0 0 50% 50%}a[a]{inset:150px 50px}a[b]{transform:rotate(180deg);inset:50px 150px}a[c]{inset:150px 250px
+<a a><a b><a c><style>*{background:#62306d}a{width:100;height:100;position:fixed;background:#f7ec7d;border-radius:0 0 50% 50%}a[a]{inset:150px 50px}a[b]{transform:scale(-1);inset:50px 150px}a[c]{inset:150px 250px
 ```
