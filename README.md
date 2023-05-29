@@ -21,3 +21,4 @@ CSSBattle is an online game where players compete with each other to create the 
 
 - **[#13 Totally Triangle](./battle-002-visibility/013-totally-triangle.md)**
 - **[#14 Web Maker Logo](./battle-002-visibility/014-web-maker-logo.md)**
+- **[#15 Overlap](./battle-002-visibility/015-overlap.md)**
