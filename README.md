@@ -25,3 +25,7 @@ CSSBattle is an online game where players compete with each other to create the 
 - **[#16 Eye of the Tiger](./battle-002-visibility/016-eye-of-the-tiger.md)**
 - **[#17 Fidget Spinner](./battle-002-visibility/017-fidget-spinner.md)**
 - **[#18 Matrix](./battle-002-visibility/018-matrix.md)**
+
+## Battle #3 - Cursor
+
+- **[#19 Cube](./battle-003-cursor/019-cube.md)**
