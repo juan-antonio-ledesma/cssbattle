@@ -29,3 +29,4 @@ CSSBattle is an online game where players compete with each other to create the 
 ## Battle #3 - Cursor
 
 - **[#19 Cube](./battle-003-cursor/019-cube.md)**
+- **[#20 Ticket](./battle-003-cursor/020-ticket.md)**
