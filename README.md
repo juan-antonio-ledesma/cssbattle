@@ -30,3 +30,7 @@ CSSBattle is an online game where players compete with each other to create the 
 
 - **[#19 Cube](./battle-003-cursor/019-cube.md)**
 - **[#20 Ticket](./battle-003-cursor/020-ticket.md)**
+
+## Battle #4 - Display
+
+- **[#21 SitePoint Logo](./battle-004-display/021-site-point-logo.md)**
