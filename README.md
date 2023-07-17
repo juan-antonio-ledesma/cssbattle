@@ -34,3 +34,4 @@ CSSBattle is an online game where players compete with each other to create the 
 ## Battle #4 - Display
 
 - **[#21 SitePoint Logo](./battle-004-display/021-site-point-logo.md)**
+- **[#22 Cloud](./battle-004-display/022-cloud.md)**
