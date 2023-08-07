@@ -36,5 +36,5 @@
 ```
 
 ```html
-<a><a a><style>*{background:#0B2429}a{width:120;height:120;background:#F3AC3C;position:fixed;border-radius:50%;inset:30px 200px}a[a]{border-top-right-radius:0;inset:150px 80px;box-shadow:60px -60px #998235
+<a><a b><style>*{background:#0B2429}a{width:120;height:120;background:#F3AC3C;position:fixed;border-radius:50%;inset:30px 200px}[b]{border-top-right-radius:0;inset:150px 80px;box-shadow:60px -60px #998235
 ```

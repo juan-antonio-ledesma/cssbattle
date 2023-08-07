@@ -85,5 +85,5 @@
 ```
 
 ```html
-<a a><a b><a c><style>*{background:#222730}a{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%)}a[a]{width:100%;height:150;background:#4caab3}a[b]{width:150;height:150;background:#4caab3;transform:translate(-50%,-50%)rotate(45deg);border:solid 50px#222730;border-radius:0.1px}a[c]{width:50;height:50;background:#393e46;border-radius:50%
+<a a><a b><a c><style>*{background:#222730}a{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%)}[a]{width:100%;height:150;background:#4caab3}[b]{width:150;height:150;background:#4caab3;transform:translate(-50%,-50%)rotate(45deg);border:solid 50px#222730;border-radius:0.1px}[c]{width:50;height:50;background:#393e46;border-radius:50%
 ```

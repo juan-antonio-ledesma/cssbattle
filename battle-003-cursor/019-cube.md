@@ -49,5 +49,5 @@
 ```
 
 ```html
-<a l><a c><a r><style>*{background:#0b2429}a{position:fixed;top:135;left:150;background:#f3ac3c;width:100;height:100;transform:rotate(45deg)}a[l],a[r]{top:80;width:70;height:70}a[l]{left:130;background:#998235;transform:skewY(-45deg)}a[r]{left:200;background:#1a4341;transform:skewY(45deg)
+<a l><a c><a r><style>*{background:#0b2429}a{position:fixed;top:135;left:150;background:#f3ac3c;width:100;height:100;transform:rotate(45deg)}[l],[r]{top:80;width:70;height:70}[l]{left:130;background:#998235;transform:skewY(-45deg)}[r]{left:200;background:#1a4341;transform:skewY(45deg)
 ```

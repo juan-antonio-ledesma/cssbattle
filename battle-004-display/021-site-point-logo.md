@@ -55,5 +55,5 @@
 ```
 
 ```html
-<a><a b><style>*{background:#222}a{position:absolute;top:58;left:155;width:30;height:100;background:#f2994a;border-radius:0 0 0 10px;transform:rotate(45deg)}a:after{content:'';position:fixed;top:50;left:30;width:30;height:70;background:#f2994a;border-radius:5px 0 0 0;transform:rotate(90deg)}a[b]{top:142;left:213;background:#2d9cdb;transform:rotate(225deg)}a[b]:after{background:#2d9cdb
+<a><a b><style>*{background:#222}a{position:absolute;top:58;left:155;width:30;height:100;background:#f2994a;border-radius:0 0 0 10px;transform:rotate(45deg)}a:after{content:'';position:fixed;top:50;left:30;width:30;height:70;background:#f2994a;border-radius:5px 0 0 0;transform:rotate(90deg)}[b]{top:142;left:213;background:#2d9cdb;transform:rotate(225deg)}[b]:after{background:#2d9cdb
 ```

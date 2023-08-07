@@ -47,5 +47,5 @@
 ```
 
 ```html
-<p a><p b><p c><style>*{background:#6592cf}p{margin:0;position:fixed;inset:50%;transform:translate(-50%,-50%)}p:not([a]){border-radius:50%}p[a]{width:300;height:150;background:#243d83}p[b]{width:150;height:150;background:#243d83;border:50px solid#6592cf}p[c]{width:50;height:50;background:#eeb850
+<p a><p b><p c><style>*{background:#6592cf}p{margin:0;position:fixed;inset:50%;transform:translate(-50%,-50%)}p:not([a]){border-radius:50%}[a]{width:300;height:150;background:#243d83}[b]{width:150;height:150;background:#243d83;border:50px solid#6592cf}[c]{width:50;height:50;background:#eeb850
 ```
