@@ -2,6 +2,26 @@
 
 CSSBattle is an online game where players compete with each other to create the shortest and most effective CSS code to recreate visual shapes and patterns. CSSBattle is a fun and challenging way to improve CSS coding skills while competing with other players.
 
+<table>
+  <thead>
+    <tr>
+      <th align="left">Table of contents</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p>
+          <a href="#battle-1---pilot-battle">Battle #1 - Pilot Battle</a><br />
+          <a href="#battle-2---visibility">Battle #2 - Visibility</a><br />
+          <a href="#battle-3---cursor">Battle #3 - Cursor</a><br />
+          <a href="#battle-4---display">Battle #4 - Display</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Battle #1 - Pilot Battle
 
 - **[#1 Simply Square](./battle-001-pilot-battle/001-simply-square.md)**
