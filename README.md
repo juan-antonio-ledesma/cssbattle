@@ -60,3 +60,4 @@ CSSBattle is an online game where players compete with each other to create the 
 - **[#25 Blossom](./battle-004-display/025-blossom.md)**
 - **[#26 Smiley](./battle-004-display/026-smiley.md)**
 - **[#27 Lock Up](./battle-004-display/027-lock-up.md)**
+- **[#28 Cups & Balls](./battle-004-display/028-cups-balls.md)**
