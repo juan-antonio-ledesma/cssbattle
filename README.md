@@ -25,8 +25,8 @@ CSSBattle is an online game where players compete with each other to create the 
 
 ## Battle #5 - Inline
 
-- **[#29 Suffocate](./battle-005-inline/029-suffocate.md)**
 - **[#30 Horizon](./battle-005-inline/030-horizon.md)**
+- **[#29 Suffocate](./battle-005-inline/029-suffocate.md)**
 
 ## Battle #4 - Display
 
