@@ -26,6 +26,7 @@ CSSBattle is an online game where players compete with each other to create the 
 
 ## Battle #6 - Conic
 
+- **[#32 Band-aid](./battle-006-conic/032-band-aid.md)**
 - **[#31 Equals](./battle-006-conic/031-equals.md)**
 
 ## Battle #5 - Inline
