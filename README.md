@@ -12,6 +12,7 @@ CSSBattle is an online game where players compete with each other to create the 
     <tr>
       <td>
         <p>
+          <a href="#battle-7---backface">Battle #7 - Backface</a><br />
           <a href="#battle-6---conic">Battle #6 - Conic</a><br />
           <a href="#battle-5---inline">Battle #5 - Inline</a><br />
           <a href="#battle-4---display">Battle #4 - Display</a><br />
@@ -23,6 +24,10 @@ CSSBattle is an online game where players compete with each other to create the 
     </tr>
   </tbody>
 </table>
+
+## Battle #7 - Backface
+
+- **[#33 Birdie](./battle-007-backface/033-birdie.md)**
 
 ## Battle #6 - Conic
 
