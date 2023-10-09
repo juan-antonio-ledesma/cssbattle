@@ -27,6 +27,7 @@ CSSBattle is an online game where players compete with each other to create the 
 
 ## Battle #7 - Backface
 
+- **[#35 Ice Cream](./battle-007-backface/035-ice-cream.md)**
 - **[#34 Christmas Tree](./battle-007-backface/034-christmas-tree.md)**
 - **[#33 Birdie](./battle-007-backface/033-birdie.md)**
 
