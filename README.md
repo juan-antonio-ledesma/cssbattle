@@ -28,6 +28,7 @@ CSSBattle is an online game where players compete with each other to create the 
 
 ## Battle #8 - Transition
 
+- **[#44 Stripes](./battle-008-transition/044-stripes.md)**
 - **[#43 Wrench](./battle-008-transition/043-wrench.md)**
 - **[#42 Baby](./battle-008-transition/042-baby.md)**
 
